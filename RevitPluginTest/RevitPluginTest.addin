@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+<AddIn Type="Command">
+ <Assembly>RevitPluginTest.dll</Assembly>
+ <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
+248
+ <FullClassName>RevitPluginTest.PluginTest</FullClassName>
+ <Text>Test plugin</Text>
+ <VendorId>ADSK</VendorId>
+ </AddIn>
+</RevitAddIns>
